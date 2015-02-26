@@ -46,21 +46,15 @@
 	</Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\OVR\Editor\OVRBuild.cs" />
-     <Compile Include="Assets\OVR\Editor\OVRCameraControllerEditor.cs" />
-     <Compile Include="Assets\OVR\Editor\OVRDeviceEditor.cs" />
-     <Compile Include="Assets\OVR\Editor\OVREditorGUIUtility.cs" />
-     <Compile Include="Assets\OVR\Editor\OVRPlayerControllerEditor.cs" />
-     <Compile Include="Assets\OVR\Editor\OVRPrefabs.cs" />
-     <Compile Include="Assets\OVR\Editor\OVRShimLoader.cs" />
-     <Compile Include="Assets\OVR\Editor\OVRUGUIEditor.cs" />
-     <Compile Include="Assets\Ultimate Game Tools\ConcaveCollider\Editor\ConcaveColliderEditor.cs" />
-     <None Include="Assets\Plugins\donotdelete.txt" />
+     <Compile Include="Assets\SpriteText\editor\SpriteFontInspector.cs" />
+     <Compile Include="Assets\SpriteText\editor\SpriteFontLoader.cs" />
+     <Compile Include="Assets\SpriteText\editor\SpriteTextEditorUtility.cs" />
+     <Compile Include="Assets\SpriteText\editor\SpriteTextInspector.cs" />
      <None Include="Assets\Shaders\TransparentDiffusse.shader" />
-     <None Include="Assets\Ultimate Game Tools\ConcaveCollider\1st readme - v1.11.txt" />
-     <None Include="Assets\OVR\Shaders\TextShader3D.shader" />
+     <None Include="Assets\SpriteText\example\fonts\batang_70\batang_70.fnt" />
+     <None Include="Assets\SpriteText\example\fonts\calibri_70\calibri_70.fnt" />
+     <None Include="Assets\SpriteText\example\fonts\arial_70\arial_70.fnt" />
      <None Include="Assets\Shaders\MotionBlur.shader" />
-     <None Include="Assets\OVR\Shaders\OVRGUIShader.shader" />
      <None Include="Assets\Shaders\InvertDiffuse.shader" />
      <None Include="Assets\Shaders\RevealBackfaces.shader" />
  <Reference Include="UnityEngine.UI">

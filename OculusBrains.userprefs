@@ -1,12 +1,14 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\GamepadController.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\MapViewerController.cs">
     <Files>
-      <File FileName="Assets\Scripts\SoundController.cs" Line="18" Column="51" />
-      <File FileName="Assets\Scripts\FadeController.cs" Line="28" Column="4" />
-      <File FileName="Assets\Scripts\GamepadController.cs" Line="12" Column="36" />
-      <File FileName="Assets\Scripts\CinematicController.cs" Line="29" Column="4" />
-      <File FileName="Assets\Scripts\DroneBladeController.cs" Line="17" Column="65" />
+      <File FileName="Assets\Scripts\BrainMapZoneController.cs" Line="16" Column="20" />
+      <File FileName="Assets\Scripts\MapViewerController.cs" Line="72" Column="3" />
+      <File FileName="Assets\Scripts\GamepadController.cs" Line="27" Column="49" />
+      <File FileName="Assets\Scripts\BrainMapReader.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\LeapBrainController.cs" Line="1" Column="1" />
+      <File FileName="Assets\CalculateBoundingBox.cs" Line="1" Column="1" />
+      <File FileName="Assets\Shaders\InvertDiffuse.shader" Line="5" Column="18" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

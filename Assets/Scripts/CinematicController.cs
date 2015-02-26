@@ -26,16 +26,13 @@ public class CinematicController : MonoBehaviour {
 
 		if (cinematic_on) {
 
-
 			float distCovered = (Time.time - this.startTime) * speed2;
 			float fracJourney = distCovered / journeyLength;
 
 			this.transform.position = Vector3.Lerp(this.posStartCinematic, this.posEndCine, fracJourney);
-			Debug.Log ("cine");
+	
 			if (fracJourney >= 1)
 				this.cinematic_on = false;				
 			}
 	}
-
-
 }
